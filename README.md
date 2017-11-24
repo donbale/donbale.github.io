@@ -15,6 +15,6 @@ I am currently working on my homepage at [christopherbale.com](http://www.christ
 ```markdown
 Syntax highlighted code block
 
-### Contact
+### Contact:
 
 Email me at christopherbale@icloud.com.
