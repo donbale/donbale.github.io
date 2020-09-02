@@ -1,16 +1,16 @@
-## UK based Linux SysAdmin
+## Engineer and Persistant 
 
-Skills in the art of Bash & Python, and proficiency in HTML, CSS, JavaScript and Wordpress. 
+UK based DevOps Engineer certified in Linux and AWS. Working with Ansible, Terraform, Packer, Jenkins & Docker Always learning...
 
-Always learning...
+Currently delving into Deep Learning 
 
-I am currently working on my homepage at [christopherbale.com](http://www.christopherbale.com) 
+## My Current Projects: 
 
-## My Projects: 
+### Image Classifiers
 
-### Simple Python Keylogger
+- [Garden Bird Classifier](https://github.com/donbale/garden-bird-classifier)
 
-- [Keylogger](https://github.com/donbale/Keylogger)
+- [Leaf Classifier](https://github.com/donbale/leaf-classifier)
 
 ```markdown
 Syntax highlighted code block
@@ -18,3 +18,4 @@ Syntax highlighted code block
 ### Contact:
 
 Email me at christopherbale@icloud.com.
+I am currently working on my homepage at [christopherbale.com](http://www.christopherbale.com) 
